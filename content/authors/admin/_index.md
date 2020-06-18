@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Nelson Bighetti
+# TOP BOXXXXXXX
+title: Levi D. McClenny
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +11,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
+- name:  Dept. of Electrical Engineering, Texas A&M University
+  url: "https://engineering.tamu.edu/electrical/index.html"
+- name: Army Research Lab
+  url: "https://www.arl.army.mil/"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,8 +43,19 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Levi is a Ph.D. candidate in the Department of Electrical and Computer Engineering at Texas A&M University in College Station, TX. Additionally, he is a member of the United States Army Reserves, currently serving in an Aviation Battalion in Conroe, Texas as a Blackhawk pilot. He is a Research Assistant in the Department of Electrical Engineering at Texas A&M and is currently collaborating with the Army Research Lab on research areas of interest to the Department of Defense.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He holds a Bachelor and Master of Science in Electrical Engineering from Texas A&M, completed in 2015 and 2016 respectively. He was formerly a member of the Aggie Band, in the Corps of Cadets, a member of B-Company, and was a founding member of C-Company. While pursuing his Masters, he was selected to serve as the Executive Vice President of Texas A&M’s Student Government; the same year in which he helped co-found the Texas A&M University Career Closet.
+
+He has been appointed to two state gubernatorial boards by the Governor of Texas:
+- [Student Regent](https://www.tamus.edu/regents/former-student-regents-2/) to the [Texas A&M Board of Regents](https://www.tamus.edu/regents/), 2019-2020
+- Student Rep to the [Texas Higher Education Coordinating Board](http://www.thecb.state.tx.us/about-us/board-commissioner/) 2020-2021
+
+He is a 2018 recipient of the [Buck Weirus Spirit Award](https://www.aggienetwork.com/buckweirus/) for his service to the Texas A&M campus community.
+
+#
