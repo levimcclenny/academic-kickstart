@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow
+role: Graduate Research Fellow
 
 # Organizations/Affiliations
 organizations:

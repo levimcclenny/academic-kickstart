@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Download CV
+  url: "/CV.pdf"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,15 +46,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/levimcclenny
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=9NRD_d0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/levimcclenny
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Levi_Mcclenny
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/?query=levi+mcclenny&searchtype=all&source=header
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,7 +81,7 @@ user_groups:
 
 ---
 
-Levi's Research Interests lie in computer vision applications and at the intersection of deep learning and physics. HE has held many fellowships as an undergraduate and graduate student:
+Levi's Research Interests are in artificial intelligence with applications in material systems, and lie in computer vision applications and at the intersection of deep learning and physics. He has held many fellowships as an undergraduate and graduate student:
 - NSF Undergraduate Research Fellow, 2015
 - NSF Graduate Research Fellow, 2015 - 2016
 - NSF [Data-Enabled Discovery of Energy Materials](https://https://d3em.tamu.edu/) Fellow, 2017 - 2019
