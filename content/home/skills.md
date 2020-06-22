@@ -21,7 +21,7 @@ subtitle = "Skills involving a keyboard"
   description = "Extensive python scripting experience in Python"
 
   [[feature]]
-    icon = "TF_White_icon"
+    icon = "TF_White_Icon"
     icon_pack = "custom"
     name = "Tensorflow"
     description = "Experience building and training deep learning algorithms Tensorflow and Keras"
