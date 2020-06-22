@@ -52,9 +52,7 @@ Levi is a Ph.D. candidate in the Department of Electrical and Computer Engineeri
 
 He holds a Bachelor and Master of Science in Electrical Engineering from Texas A&M, completed in 2015 and 2016 respectively. He was formerly a member of the Aggie Band, in the Corps of Cadets, a member of B-Company, and was a founding member of C-Company. While pursuing his Masters, he was selected to serve as the Executive Vice President of Texas A&M’s Student Government; the same year in which he helped co-found the Texas A&M University Career Closet.
 
-He has been appointed to two state gubernatorial boards by the Governor of Texas:
-- [Student Regent](https://www.tamus.edu/regents/former-student-regents-2/) to the [Texas A&M Board of Regents](https://www.tamus.edu/regents/), 2019-2020
-- Student Rep to the [Texas Higher Education Coordinating Board](http://www.thecb.state.tx.us/about-us/board-commissioner/) 2020-2021
+He was appointed to by the Governor of Texas to sit as [Student Regent](https://www.tamus.edu/regents/former-student-regents-2/) to the [Texas A&M Board of Regents](https://www.tamus.edu/regents/) and as the student representative to the [Texas Higher Education Coordinating Board](http://www.thecb.state.tx.us/about-us/board-commissioner/).
 
 He is a 2018 recipient of the [Buck Weirus Spirit Award](https://www.aggienetwork.com/buckweirus/) for his service to the Texas A&M campus community.
 
