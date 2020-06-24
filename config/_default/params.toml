@@ -101,7 +101,7 @@ address = {street = "188 Bizzell St.", city = "College Station", region = "TX", 
 coordinates = {latitude = "30.620565", longitude = "-96.3389"}
 
 # Directions for visitors to locate you.
-directions = "Weisenbecker Engineering Building, 2nd floor"
+directions = "Wisenbaker Engineering Building, 2nd floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

@@ -20,7 +20,7 @@ organizations:
 - name: Army Research Lab
   url: "https://www.arl.army.mil/"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are all things deep learning, especially artificial intelligence with applications in materials systems
 
 
 

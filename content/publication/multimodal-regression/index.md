@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Deep Multimodal Transfer-Learned Regression in Data-Poor Domains"
-authors: [Levi McClenny, Mulugeta Haile, Vahid Attari, Brian Sadler, Ulisses BRaga-Neto, Raymundo Arroyave]
+authors: [admin, Mulugeta Haile, Vahid Attari, Brian Sadler, Ulisses BRaga-Neto, Raymundo Arroyave]
 date: 2020-06-21T23:11:34-05:00
 doi: ""
 
@@ -24,8 +24,8 @@ abstract: "In many real-world applications of deep learning, estimation of a tar
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Deep Learning, Transfer Learning, Multimodal Learning, CNN Architectures, Regression]
-categories: []
+tags: [Machine Learning, Deep Learning, Transfer Learning, Multimodal Learning, CNN Architectures, Regression, Materials, Microstructures]
+categories: [Materials Informatics]
 featured: true
 
 # Custom links (optional).
