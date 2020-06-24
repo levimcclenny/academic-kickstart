@@ -4,7 +4,7 @@
 title: "Boolfilter R Package Application Note"
 authors: [Admin, Mahdi Imani, Ulisses Braga-Neto]
 date: 2017-12-01T23:48:28-05:00
-doi: "wererg"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-12-01T23:48:28-05:00
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Gene regulatory networks govern the function of key cellular processes, such as control of the cell cycle, response to stress, DNA repair mechanisms, and more. Boolean networks have been used successfully in modeling gene regulatory networks. In the Boolean network model, the transcriptional state of each gene is represented by 0 (inactive) or 1 (active), and the relationship among genes is represented by logical gates updated at discrete time points. However, the Boolean gene states are never observed directly, but only indirectly and incompletely through noisy measurements based on expression technologies such as cDNA microarrays, RNA-Seq, and cell imaging-based assays. The Partially-Observed Boolean Dynamical System (POBDS) signal model is distinct from other deterministic and stochastic Boolean network models in removing the requirement of a directly observable Boolean state vector and allowing uncertainty in the measurement process, addressing the scenario encountered in practice in transcriptomic analysis."
 
 # Summary. An optional shortened abstract.
-summary: "fqef"
+summary: ""
 
 tags: [Software, Dynamical Systems, Optimal State Estimation  ]
 categories: [Boolean Dynamical Systems]
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://link.springer.com/content/pdf/10.1186/s12859-017-1886-3.pdf
-url_code:
+url_code: https://github.com/levimcclenny/BoolFilter
 url_dataset:
 url_poster:
 url_project:
