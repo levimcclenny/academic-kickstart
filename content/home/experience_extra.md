@@ -40,7 +40,7 @@ Appointed by the Governor of Texas to advocate on behalf of the ~1.5m students i
   title = "Student Regent"
   company = "Texas A&M University System Board of Regents"
   company_url = "https://www.tamus.edu/regents/"
-  location = "college Station, TX"
+  location = "College Station, TX"
   date_start = "2019-06-01"
   date_end = "2020-05-31"
   description = """
@@ -56,13 +56,12 @@ proposals as fit for the individual campuses in the system"""
   title = "Executive Vice President"
   company = "Texas A&M University Student Government Association"
   company_url = ""
-  location = "college Station, TX"
+  location = "College Station, TX"
   date_start = "2015-05-01"
   date_end = "2016-05-31"
   description = """
   Responsible for stepping in for the Student Body President at a moment’s notice and coordinating the efforts of the Student Government Executive Cabinet to align with the SBPs vision.
 
-  Co-Chair of the Wind Chimes Task Force, a student-led initiative to help visually impaired student navigate campus. Directly responsible for the implementation of wind chimes currently hanging in various strategic locations on campus, as well as fundraising thousands of dollars to maintain the project into the future.
 
   Sat on numerous university committees and boards, including Recreational Sports, Student Affairs Fee Advisory Board, Student Organization Funding Assistance Board, Campus Concealed Carry Task force, and others.
 """

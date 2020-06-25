@@ -48,12 +48,12 @@ user_groups:
 
 ---
 
-Levi is a Ph.D. candidate in the Department of Electrical and Computer Engineering at Texas A&M University in College Station, TX. Additionally, he is a member of the United States Army Reserves, currently serving in an Aviation Battalion in Conroe, Texas as a Blackhawk pilot. He is a Research Assistant in the Department of Electrical Engineering at Texas A&M and is currently collaborating with the Army Research Lab on research areas of interest to the Department of Defense.
+Levi is a graduate student researcher in the Department of Electrical and Computer Engineering at Texas A&M University in College Station, TX. Additionally, he is a member of the United States Army Reserves, currently serving in an Aviation Battalion in Conroe, Texas as a Blackhawk pilot. He is a Research Assistant in the Department of Electrical Engineering at Texas A&M and is currently collaborating with the Army Research Lab on research areas of interest to the Department of Defense.
 
-He holds a Bachelor and Master of Science in Electrical Engineering from Texas A&M, completed in 2015 and 2016 respectively. He was formerly a member of the Aggie Band, in the Corps of Cadets, a member of B-Company, and was a founding member of C-Company. While pursuing his Masters, he was selected to serve as the Executive Vice President of Texas A&M’s Student Government; the same year in which he helped co-found the Texas A&M University Career Closet.
+He holds a Bachelor and Master of Science in Electrical Engineering from Texas A&M, completed in 2015 and 2016 respectively. He was formerly a member the Corps of Cadets, and while pursuing his Masters served as the Executive Vice President of Texas A&M’s Student Government, sitting on numerous university advisory boards and committees and helping found the [Texas A&M University Career Closet](https://careercloset.tamu.edu/).
 
-He was appointed to by the Governor of Texas to sit as [Student Regent](https://www.tamus.edu/regents/former-student-regents-2/) to the [Texas A&M Board of Regents](https://www.tamus.edu/regents/) and as the student representative to the [Texas Higher Education Coordinating Board](http://www.thecb.state.tx.us/about-us/board-commissioner/).
+In 2019 he was appointed to by the Governor of Texas to sit as [Student Regent](https://www.tamus.edu/regents/former-student-regents-2/) to the [Texas A&M Board of Regents](https://www.tamus.edu/regents/) and later as the student representative to the [Texas Higher Education Coordinating Board](http://www.thecb.state.tx.us/about-us/board-commissioner/).
 
-He is a 2018 recipient of the [Buck Weirus Spirit Award](https://www.aggienetwork.com/buckweirus/) for his service to the Texas A&M campus community.
+He has attained numerous civilian and military awards, including the [Buck Weirus Spirit Award](https://www.aggienetwork.com/buckweirus/) for his service to the Texas A&M campus community and the distinction of Distinguished Honor Graduate of his Air Assault class.
 
 #

@@ -18,7 +18,7 @@ subtitle = "Skills involving a keyboard"
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Extensive python scripting experience in Python"
+  description = "Extensive scripting experience in Python"
 
   [[feature]]
     icon = "TF_White_Icon"
@@ -37,38 +37,25 @@ subtitle = "Skills involving a keyboard"
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Wrote and published R:BoolFilter to CRAN"
+  description = "Wrote and published the open-source software package _R:BoolFilter_ to CRAN"
 
-[[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
-  description = "Utilized numerous Docker Images for deep learning applications"  
+  [[feature]]
+    icon = "fast-forward"
+    icon_pack = "fas"
+    name = "GPU Accelerated Design"
+    description = "Development skills specifically for multi-GPU training"
 
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "Amazon Web Services"
-  description = "Experience with Nvidia GPU Support in deep learning AMIs"
-
-[[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "GIT-based Design"
-  description = "Experience with git development processes"
+  description = " Development and model training experience with Nvidia GPU Support in deep learning AMIs"
 
 
-[[feature]]
-  icon = "fast-forward"
-  icon_pack = "fas"
-  name = "GPU Accelerated Design"
-  description = "Development skills specifically for multi-GPU training"
 
-[[feature]]
-  icon = "gitkraken"
-  icon_pack = "fab"
-  name = "Gitkraken for DevOps"
-  description = "Experience with Gitkraken for personal and open-source development"
+
+
+
 
 
 

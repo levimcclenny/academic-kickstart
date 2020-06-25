@@ -15,10 +15,10 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Download CV
-  url: "/CV.pdf"
+  url: "files/CV.pdf"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in all things deep learning, especially artificial intelligence with applications in materials systems.
 
 interests:
 - Computer Vision
