@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Texas.gov"
-  organization_url = "Texas.gov"
+  organization_url = "http://gov.texas.gov"
   title = "Governor Greg Abbott Appoints University Student Regents And Student Representative To The Texas Higher Education Coordinating Board"
   url = "https://gov.texas.gov/news/post/governor-greg-abbott-appoints-university-student-regents-and-student-representative-to-the-texas-higher-education-coordinating-board"
   certificate_url = "https://gov.texas.gov/news/post/governor-greg-abbott-appoints-university-student-regents-and-student-representative-to-the-texas-higher-education-coordinating-board"

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Deep Multimodal Transfer-Learned Regression in Data-Poor Domains"
-authors: [admin, Mulugeta Haile, Vahid Attari, Brian Sadler, Ulisses BRaga-Neto, Raymundo Arroyave]
+authors: [admin, Mulugeta Haile, Vahid Attari, Brian Sadler, Ulisses Braga-Neto, Raymundo Arroyave]
 date: 2020-06-21T23:11:34-05:00
 doi: ""
 
