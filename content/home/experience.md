@@ -47,7 +47,7 @@ Currently has many publications in multiple journals and IEEE Conference Proceed
   company_url = ""
   location = "College Station, TX"
   date_start = "2015-01-15"
-  date_end = "2019-05-15"
+  date_end = "2015-05-15"
   description = """Undergraduate research in Partially-Observed Boolean Dynamical Systems"""
 
 +++
