@@ -25,6 +25,8 @@ interests:
 - Microstructure Informatics
 - Generative Deep Learning
 - Physics-Informed Deep Learning
+- Scientific Machine Learning
+- Numerical Methods in ODE/PDEs
 
 education:
   courses:
